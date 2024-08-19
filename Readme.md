@@ -1,3 +1,3 @@
-This folder related to Vanilla JavaScript.
+# This repository is related to Vanilla JavaScript folders.
 
-First folder is of Color flipper - HTML5 , CSS3 and JavaScript. 
+1. First folder is of Color flipper 
